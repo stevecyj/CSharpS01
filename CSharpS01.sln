@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "start", "start\start.csproj", "{C3BC8728-68AD-45E6-A2D0-CD5A9DBD00A9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "print-flag", "print-flag\print-flag.csproj", "{718EDBBD-4B78-475F-A9BF-8368866FDEA4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{C3BC8728-68AD-45E6-A2D0-CD5A9DBD00A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C3BC8728-68AD-45E6-A2D0-CD5A9DBD00A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C3BC8728-68AD-45E6-A2D0-CD5A9DBD00A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{718EDBBD-4B78-475F-A9BF-8368866FDEA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{718EDBBD-4B78-475F-A9BF-8368866FDEA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{718EDBBD-4B78-475F-A9BF-8368866FDEA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{718EDBBD-4B78-475F-A9BF-8368866FDEA4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
