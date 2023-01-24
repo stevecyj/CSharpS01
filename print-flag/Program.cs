@@ -20,4 +20,6 @@ Console.WriteLine("   *");
 Console.WriteLine("   *");
 */
 
-Console.WriteLine("\\\"");
+// Console.WriteLine("\\\"");
+
+Console.WriteLine("JOJO say: what is \\n");
