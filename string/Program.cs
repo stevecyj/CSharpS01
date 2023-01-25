@@ -1,8 +1,4 @@
-﻿char a='1';
-int b=a;
-
-Console.WriteLine(a);
-Console.WriteLine(b);
-string str = @"c:\a\b\c";
-Console.WriteLine(str);
-Console.WriteLine("www"+123);
+﻿String str = Console.ReadLine();
+int strInt = Convert.ToInt32(str);
+int a = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("you type " + strInt + "-" + a);
