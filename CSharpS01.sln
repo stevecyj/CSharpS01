@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "string", "string\string.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "practice", "practice\practice.csproj", "{9FA60FE1-4B4D-4E96-9017-31209D8661E7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "variable-research", "variable-research\variable-research.csproj", "{EA929566-C1C6-4C96-B72C-06029CA7469F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{9FA60FE1-4B4D-4E96-9017-31209D8661E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9FA60FE1-4B4D-4E96-9017-31209D8661E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9FA60FE1-4B4D-4E96-9017-31209D8661E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA929566-C1C6-4C96-B72C-06029CA7469F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA929566-C1C6-4C96-B72C-06029CA7469F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA929566-C1C6-4C96-B72C-06029CA7469F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA929566-C1C6-4C96-B72C-06029CA7469F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
