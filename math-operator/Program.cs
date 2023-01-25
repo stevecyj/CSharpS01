@@ -14,7 +14,11 @@ Console.WriteLine(e);
 Console.WriteLine(f);
 */
 
-int num = 39;
+/*int num = 39;
 int unitDigit = num % 10;
 int tensDigit = num / 10;
-Console.WriteLine("個位數是{0},十位數是{1}", unitDigit, tensDigit);
+Console.WriteLine("個位數是{0},十位數是{1}", unitDigit, tensDigit);*/
+
+int a=0;
+a=a+1;
+Console.WriteLine(a);
