@@ -16,6 +16,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "math-operator", "math-opera
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "increment-and-decrement", "increment-and-decrement\increment-and-decrement.csproj", "{904AEDBF-12C5-46FD-A14F-446DF0B90937}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "boolean", "boolean\boolean.csproj", "{701F65EC-5E32-4A91-B4ED-F9D72D5BD275}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -54,5 +56,9 @@ Global
 		{904AEDBF-12C5-46FD-A14F-446DF0B90937}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{904AEDBF-12C5-46FD-A14F-446DF0B90937}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{904AEDBF-12C5-46FD-A14F-446DF0B90937}.Release|Any CPU.Build.0 = Release|Any CPU
+		{701F65EC-5E32-4A91-B4ED-F9D72D5BD275}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{701F65EC-5E32-4A91-B4ED-F9D72D5BD275}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{701F65EC-5E32-4A91-B4ED-F9D72D5BD275}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{701F65EC-5E32-4A91-B4ED-F9D72D5BD275}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
