@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "practice", "practice\practi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "variable-research", "variable-research\variable-research.csproj", "{EA929566-C1C6-4C96-B72C-06029CA7469F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "math-operator", "math-operator\math-operator.csproj", "{3D15FDBD-0466-4C9A-BC74-5F73E3E9C453}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{EA929566-C1C6-4C96-B72C-06029CA7469F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA929566-C1C6-4C96-B72C-06029CA7469F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA929566-C1C6-4C96-B72C-06029CA7469F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D15FDBD-0466-4C9A-BC74-5F73E3E9C453}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D15FDBD-0466-4C9A-BC74-5F73E3E9C453}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D15FDBD-0466-4C9A-BC74-5F73E3E9C453}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D15FDBD-0466-4C9A-BC74-5F73E3E9C453}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
