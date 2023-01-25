@@ -7,3 +7,4 @@ else
 {
     Console.WriteLine("可以進入");
 }
+Console.WriteLine("finish");
