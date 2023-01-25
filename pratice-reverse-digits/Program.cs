@@ -18,7 +18,12 @@ Console.WriteLine(b);
 Console.WriteLine(a);
 */
 
-int a = 3;
+/*int a = 3;
 int b = a++ + ++a;
 Console.WriteLine(b);
-Console.WriteLine(a);
+Console.WriteLine(a);*/
+
+int mathScore = Convert.ToInt32(Console.ReadLine());
+int engScore = Convert.ToInt32(Console.ReadLine());
+bool isGetAward=mathScore>=90&& engScore>=90;
+Console.WriteLine(isGetAward);
