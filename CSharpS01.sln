@@ -20,6 +20,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "boolean", "boolean\boolean.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "logic-operator", "logic-operator\logic-operator.csproj", "{0376D49D-6589-48DE-8196-46DE36913B61}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "operator-priority", "operator-priority\operator-priority.csproj", "{181E709A-7A71-4E03-9A67-4D387AF040C7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -66,5 +68,9 @@ Global
 		{0376D49D-6589-48DE-8196-46DE36913B61}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0376D49D-6589-48DE-8196-46DE36913B61}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0376D49D-6589-48DE-8196-46DE36913B61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{181E709A-7A71-4E03-9A67-4D387AF040C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{181E709A-7A71-4E03-9A67-4D387AF040C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{181E709A-7A71-4E03-9A67-4D387AF040C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{181E709A-7A71-4E03-9A67-4D387AF040C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
