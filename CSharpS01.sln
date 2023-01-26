@@ -26,6 +26,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pratice-reverse-digits", "p
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "conditional-sentence-if", "conditional-sentence-if\conditional-sentence-if.csproj", "{44366C74-F696-466C-B911-53FB1AA18BD5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "switch-sentence", "switch-sentence\switch-sentence.csproj", "{573C3922-9A60-4072-81F0-8D9625206BBB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -84,5 +86,9 @@ Global
 		{44366C74-F696-466C-B911-53FB1AA18BD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44366C74-F696-466C-B911-53FB1AA18BD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44366C74-F696-466C-B911-53FB1AA18BD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{573C3922-9A60-4072-81F0-8D9625206BBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{573C3922-9A60-4072-81F0-8D9625206BBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{573C3922-9A60-4072-81F0-8D9625206BBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{573C3922-9A60-4072-81F0-8D9625206BBB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
