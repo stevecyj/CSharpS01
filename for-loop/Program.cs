@@ -3,7 +3,15 @@
     Console.WriteLine(i);
 }*/
 
-for (int i = 0; i < 20; i++)
+/*for (int i = 0; i < 20; i++)
 {
     Console.Write("*");
+}*/
+
+int sum = 0;
+for (int i = 1; i < 101; i++)
+{
+    sum += i;
 }
+
+Console.Write(sum);
