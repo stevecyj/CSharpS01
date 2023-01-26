@@ -19,7 +19,7 @@ else
     Console.WriteLine("偶數");
 }*/
 
-int age = Convert.ToInt32(Console.ReadLine());
+/*int age = Convert.ToInt32(Console.ReadLine());
 if (age >= 18 && age <= 30)
 {
     Console.WriteLine("可以參加活動");
@@ -35,4 +35,26 @@ if (age >= 18 && age <= 30)
 else
 {
     Console.WriteLine("不可以參加活動");
+}*/
+
+int score = Convert.ToInt32(Console.ReadLine());
+
+if (score >= 90)
+{
+    Console.WriteLine("A");
+}
+
+if (score >= 70 && score <= 89)
+{
+    Console.WriteLine("B");
+}
+
+if (score >= 60 && score <= 69)
+{
+    Console.WriteLine("C");
+}
+
+if (score < 60)
+{
+    Console.WriteLine("D");
 }
