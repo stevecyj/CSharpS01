@@ -32,12 +32,26 @@ while (i < n + 1)
 
 Console.WriteLine(sum);*/
 
-int i=1;
+/*int i=1;
 while (i < 101)
 {
     if (i % 2 == 0)
     {
         Console.WriteLine(i);
     }
+    i++;
+}*/
+
+int n1 = Convert.ToInt32(Console.ReadLine());
+int n2 = Convert.ToInt32(Console.ReadLine());
+
+int i = n1;
+while (i < n2 + 1)
+{
+    if (i % 2 == 0)
+    {
+        Console.WriteLine(i);
+    }
+
     i++;
 }
