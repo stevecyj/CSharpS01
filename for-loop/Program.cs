@@ -8,6 +8,7 @@
     Console.Write("*");
 }*/
 
+/*
 int sum = 0;
 for (int i = 1; i < 101; i++)
 {
@@ -15,3 +16,12 @@ for (int i = 1; i < 101; i++)
 }
 
 Console.Write(sum);
+*/
+
+for (int i = 1; i < 101; i++)
+{
+    if (i % 2 == 0)
+    {
+        Console.WriteLine(i);
+    }
+}
