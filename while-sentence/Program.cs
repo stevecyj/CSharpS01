@@ -56,9 +56,20 @@ while (i < n2 + 1)
     i++;
 }*/
 
+/*
 int i = 100;
 while (i>0)
 {
     Console.WriteLine(i);
     i--;
 }
+*/
+
+int i=1;
+int sum = 0;
+while (i < 101)
+{
+    sum += i;
+    i++;
+}
+Console.WriteLine(sum);
