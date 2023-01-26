@@ -1,8 +1,15 @@
-﻿int i = 0;
-while (i<5)
+﻿/*int i = 0;
+while (i < 10)
 {
-   Console.WriteLine(i);
-   i++;
+    i++;
+    Console.WriteLine(i);
 }
 
-Console.WriteLine("after while");
+Console.WriteLine("after while " + i);*/
+
+int HP = 100;
+while (HP > 0)
+{
+    HP -= 3;
+    Console.WriteLine("HP" + HP);
+}
