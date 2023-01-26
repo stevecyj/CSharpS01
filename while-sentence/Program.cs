@@ -42,7 +42,7 @@ while (i < 101)
     i++;
 }*/
 
-int n1 = Convert.ToInt32(Console.ReadLine());
+/*int n1 = Convert.ToInt32(Console.ReadLine());
 int n2 = Convert.ToInt32(Console.ReadLine());
 
 int i = n1;
@@ -54,4 +54,11 @@ while (i < n2 + 1)
     }
 
     i++;
+}*/
+
+int i = 100;
+while (i>0)
+{
+    Console.WriteLine(i);
+    i--;
 }
