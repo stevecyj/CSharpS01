@@ -21,11 +21,23 @@ while (i > 0)
     i--;
 }*/
 
-int i=1;
+/*int n = Convert.ToInt32(Console.ReadLine());
+int i = 1;
 int sum = 0;
-while (i < 101)
+while (i < n + 1)
 {
     sum += i;
     i++;
 }
-Console.WriteLine(sum);
+
+Console.WriteLine(sum);*/
+
+int i=1;
+while (i < 101)
+{
+    if (i % 2 == 0)
+    {
+        Console.WriteLine(i);
+    }
+    i++;
+}
