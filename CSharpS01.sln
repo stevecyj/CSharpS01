@@ -28,6 +28,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "conditional-sentence-if", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "switch-sentence", "switch-sentence\switch-sentence.csproj", "{573C3922-9A60-4072-81F0-8D9625206BBB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "practice-switch", "practice-switch\practice-switch.csproj", "{C5292712-D058-45B3-B43B-1D4C2184C644}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -90,5 +92,9 @@ Global
 		{573C3922-9A60-4072-81F0-8D9625206BBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{573C3922-9A60-4072-81F0-8D9625206BBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{573C3922-9A60-4072-81F0-8D9625206BBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5292712-D058-45B3-B43B-1D4C2184C644}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5292712-D058-45B3-B43B-1D4C2184C644}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5292712-D058-45B3-B43B-1D4C2184C644}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5292712-D058-45B3-B43B-1D4C2184C644}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
