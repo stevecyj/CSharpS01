@@ -30,6 +30,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "switch-sentence", "switch-s
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "practice-switch", "practice-switch\practice-switch.csproj", "{C5292712-D058-45B3-B43B-1D4C2184C644}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "while-sentence", "while-sentence\while-sentence.csproj", "{55A6515A-9D16-43DE-9991-CB501CFDE26C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -96,5 +98,9 @@ Global
 		{C5292712-D058-45B3-B43B-1D4C2184C644}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5292712-D058-45B3-B43B-1D4C2184C644}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5292712-D058-45B3-B43B-1D4C2184C644}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55A6515A-9D16-43DE-9991-CB501CFDE26C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55A6515A-9D16-43DE-9991-CB501CFDE26C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55A6515A-9D16-43DE-9991-CB501CFDE26C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55A6515A-9D16-43DE-9991-CB501CFDE26C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
